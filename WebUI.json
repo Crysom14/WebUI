@@ -4,7 +4,7 @@
             "OpenButton": 0,
             "HideIcon": true,
             "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/6cWy11F.png",
+            "IconURL": "",
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
@@ -26,22 +26,15 @@
                 "tab2": {
                     "layout": 3,
                     "buttontext": "ASA Server",
-                    "title1": "ASA The Island:",
-                    "text1": "<TextStyle.LightBlue>The Island:</>\n\n\\This is our first ASA server, we are testing it out and see whats is good settings and mods for quality of life in the server, feel free to come with comments and suggestions for the server. Admins are Metalfeather and Coldplay contact them in the discord channel for help.\n\n",
-                    "title2": "mods",
-                    "text2": "This ASA server is under construction and testing so its going to be changes in stats and mods.\n\nThese are the mods to date 16.11.23. \n\n Mods: \n [TG Stacking Mod 1000-50]\n [Super Spyglass Plus]\n [Death Inventory Keeper]\n [WBUI2]\n [Custom Dino Levels]\n [Omega Dino Storage]\n [QOL+]\n [Eternal Feeder]",
-                    "title4": "Stats",
-                    "text4": "Stats: \n\n [Xp: 2x]\n[EggHatching: 8x]\n [BabyMature: 8x]\n [LayEggInterval: 0.4x]\n [MatingInterval: 0.4x]\n",
-                    "imageurl": "https://i.imgur.com/yTVgtQA.png"
-                }
-            },
-            {
-                "tab3": {
-                    "layout": 1,
-                    "buttontext": "Rules",
-                    "title1": "Rules for The Mystic Lions Community",
-                    "text1": "<TextStyle.Green>Communication</> \n\n Global chat and discord are to be English ONLY!\n\n Don’t be THAT person.Be respectful! You don’t know who is on the other side of the screen, it might be a child, it might be an admin on their non-admin account. Treat others how you want to be treated! \n\n Intentionally causing harm to the servers(DDoS,Crashing, being toxic or a drama queen) will result in a permanent ban!\n\n <TextStyle.Green>Naming</> \n\n Names(character, dino or tribe) may not contain any vulgar, defamatory, obscene, hateful, racially, ethnically or otherwise offensive words If you have tribes on multiple maps, please make your tribe name the same.If staff determines your name to be improper, we will change the name.\n\n <TextStyle.Green>Building</> \n\n No building within 100 foundations of another player. If you can see them, you are to close.\n One home base per map(one generator on max range, shows the build area) and two fobs(not to exceed a 5x5x8).\n\n Any mobile setup must be returned to the home base. Any left in the open will be removed.\n Do not block access to any artifact, spawn point(s), obelisk, loot crate, bosses(including mini’s) or explorer note(s).\n\n No methods of reserving space are allowed. Any found will be removed on sight. Any resource gathering structure(oil pumps, gas collectors, sap taps ect) must be unlocked.\n Anything built for taming, cave crawling or other activities MUST BE REMOVED when you are done.\n NO building in resource rich areas or blocking spawns of beaver dams. When in doubt, just don’t do it.\n <TextStyle.Green>Selling/Trading</> \n\n Everything traded or sold must contain some form of payment. All mutated dino’s need to be clipped(ie neutered or spayed, by using the E Menu! if you fail to clip your dino its on you if your breed line gets out). Selling dinos you did not breed or tame is against the rules! Staff is not responsible for trades gone bad, double check everything!\n\n <TextStyle.Green>Recoveries</> +n Will only be granted on a verified server issue. \n\n <TextStyle.Red>Toxic players/Drama queens</> \n There is a zero tolerance policy with toxic or drama causing players. One warning then banned!! Please cooperate with these rules and guidelines to help us maintain a drama free, friendly and fun cluster.",
-                    "imageurl": "https://i.imgur.com/yTVgtQA.png"
+                    "title1": "title1",
+                    "text1": "text1",
+                    "title2": "title 2",
+                    "text2": "text2",
+                    "title3": "title3",
+                    "text3": "text3",
+                    "title4": "title4",
+                    "text4": "text4",
+                    "imageurl": ""
                 }
             }
         ],
@@ -49,7 +42,7 @@
             {
                 "link1": {
                     "text": "Discord",
-                    "url": "https://discord.gg/7XYYASn6"
+                    "url": "https://discord.gg/2fb6mBfT3j"
                 }
             }
         ]
