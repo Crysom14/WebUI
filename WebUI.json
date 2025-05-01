@@ -1,77 +1,57 @@
 {
-  "WBUI2":
-  {
-    "settings":
-    {
-      "openbutton": 0,
-      "hideicon": false,
-      "hideiconafter": 60,
-      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
-      "disableicontext": false,
-      "iconposition": 0,
-      "icontextcolor": 0,
-      "openonstart": true,
-      "openonstartonlynewplayers": true,
-      "updateinterval": 12
-    },
-    "tabs": [
-      {
-        "layout": 1,
-        "buttontext": "Welcome",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
-        "content": [
-          {
-            "title": "Thanks for installing WBUI2!",
-            "text": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab."
-          }
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/6cWy11F.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": false,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome to The Mystic Lions Community ",
+                    "text1": "We are a friendly community for all players but u need to be mature and keep in mind the we treat each other with respect. \n We are a growing community and we like to discuss games and gaming. Feel free to join our discord channel. There u can meet with our owners Metalfeather and Coldplay. We are in the discord voice channel every night to help out and chatting! \n ASA servers are under development now in the start soo expect some changes and we want help to build this community soo please come with suggestions and thoughts about the servers soo we can build a better communty for us all.Hope u enjoy our community!",
+                    "imageurl": "https://i.imgur.com/yTVgtQA.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 3,
+                    "buttontext": "ASA Server",
+                    "title1": "ASA The Island:",
+                    "text1": "<TextStyle.LightBlue>The Island:</>\n\n\\This is our first ASA server, we are testing it out and see whats is good settings and mods for quality of life in the server, feel free to come with comments and suggestions for the server. Admins are Metalfeather and Coldplay contact them in the discord channel for help.\n\n",
+                    "title2": "mods",
+                    "text2": "This ASA server is under construction and testing so its going to be changes in stats and mods.\n\nThese are the mods to date 16.11.23. \n\n Mods: \n [TG Stacking Mod 1000-50]\n [Super Spyglass Plus]\n [Death Inventory Keeper]\n [WBUI2]\n [Custom Dino Levels]\n [Omega Dino Storage]\n [QOL+]\n [Eternal Feeder]",
+                    "title4": "Stats",
+                    "text4": "Stats: \n\n [Xp: 2x]\n[EggHatching: 8x]\n [BabyMature: 8x]\n [LayEggInterval: 0.4x]\n [MatingInterval: 0.4x]\n",
+                    "imageurl": "https://i.imgur.com/yTVgtQA.png"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "Rules",
+                    "title1": "Rules for The Mystic Lions Community",
+                    "text1": "<TextStyle.Green>Communication</> \n\n Global chat and discord are to be English ONLY!\n\n Don’t be THAT person.Be respectful! You don’t know who is on the other side of the screen, it might be a child, it might be an admin on their non-admin account. Treat others how you want to be treated! \n\n Intentionally causing harm to the servers(DDoS,Crashing, being toxic or a drama queen) will result in a permanent ban!\n\n <TextStyle.Green>Naming</> \n\n Names(character, dino or tribe) may not contain any vulgar, defamatory, obscene, hateful, racially, ethnically or otherwise offensive words If you have tribes on multiple maps, please make your tribe name the same.If staff determines your name to be improper, we will change the name.\n\n <TextStyle.Green>Building</> \n\n No building within 100 foundations of another player. If you can see them, you are to close.\n One home base per map(one generator on max range, shows the build area) and two fobs(not to exceed a 5x5x8).\n\n Any mobile setup must be returned to the home base. Any left in the open will be removed.\n Do not block access to any artifact, spawn point(s), obelisk, loot crate, bosses(including mini’s) or explorer note(s).\n\n No methods of reserving space are allowed. Any found will be removed on sight. Any resource gathering structure(oil pumps, gas collectors, sap taps ect) must be unlocked.\n Anything built for taming, cave crawling or other activities MUST BE REMOVED when you are done.\n NO building in resource rich areas or blocking spawns of beaver dams. When in doubt, just don’t do it.\n <TextStyle.Green>Selling/Trading</> \n\n Everything traded or sold must contain some form of payment. All mutated dino’s need to be clipped(ie neutered or spayed, by using the E Menu! if you fail to clip your dino its on you if your breed line gets out). Selling dinos you did not breed or tame is against the rules! Staff is not responsible for trades gone bad, double check everything!\n\n <TextStyle.Green>Recoveries</> +n Will only be granted on a verified server issue. \n\n <TextStyle.Red>Toxic players/Drama queens</> \n There is a zero tolerance policy with toxic or drama causing players. One warning then banned!! Please cooperate with these rules and guidelines to help us maintain a drama free, friendly and fun cluster.",
+                    "imageurl": "https://i.imgur.com/yTVgtQA.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/7XYYASn6"
+                }
+            }
         ]
-      },
-      {
-        "layout": 2,
-        "buttontext": "Settings",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
-        "content": [
-          {
-            "title": "INI settings:",
-            "text": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[WBUI2]\n\n\nINI-Options:\n\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\n\nYou have to host the file as \"raw\" somewhere and enter the URL to it wrapped in \" \". You can use github (linked below). After uploading the file you'll find a button called \"raw\". click the button and copy the URL. Or use any other hosting site which offers linking to a raw JSON output.\n\nFor a more detailed instruction checkout the Wiki linked down below.\n\n\nYou can trigger an update of the JSON via console command:\ncheat scriptcommand WBUI2 update"
-          },
-          {
-            "title": "JSON settings:",
-            "text": "OpenButton  -  0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5=Delete, 6=Home  -  Determines the button the player needs to press to open the UI.\n\nHideIcon  -  true/false, default: false  -  If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter  -  integer, default: 60  -  Determines after how many seconds the Icon vanishes.\n\nIconURL  -  \"URL\", default: \"https://i.imgur.com/OZ6xOjY.png\"  -  You can upload a custom image somewhere (e.g. imgur, link down below) and it will be used as the Icon in the bottom left.\n\nDisableIconText  -  true/false, default:false  -  If true the text \"F1 for Info\" will not be displayed.\n\nIconPosition  -  0/1/2/3, default:0, 0=Top Left, 1=Top Right, 2=Bottom Right, 3=Bottom Left  -  Set the position of the Icon.\n\nIconTextColor  -  0/1/2/3/4/5/6/7/8, default:0, 0=Light Blue, 1=Red, 2=Green, 3=Blue, 4=Yellow, 5=Orange, 6=Violet, 7=Black, 8=White  -  Sets the color of the \"F1 For Info\" text.\n\nOpenOnStart  -  true/false, default: true  -  If true the UI will open automatically after the player spawned.\n\nOpenOnStartOnlyNewPlayers  -  true/false, default: true  -  If true the UI only opens automatically the first time the player spawns on the server.\n\nUpdateInterval  -  integer, default: 12  -  This value determines the time in hours the mod automatically pulls the JSON from the URL to update settings.\n\nGENERAL INFORMATION:\n\n\nFor the rest of the settings pls checkout the Wiki or the example JSON linked down below.\n\nIn order to pass the JSON-validation you have to use \"*backslash*n\" without a space to generate newlines. although the mod should handle regular newlines just fine.\n\nSpecial characters like \" have to be escaped with a *backslash*\n\nYou can trigger an update of the JSON via console command: \"cheat scriptcommand WBUI2 update\"\n\nBe careful with the file size of the images. The user have to download the images."
-          }
-        ]
-      }
-    ],
-    "links": [
-      {
-        "text": "Discord",
-        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-      },
-      {
-        "text": "Wiki",
-        "url": "https://wiki.wbui2.de"
-      },
-      {
-        "text": "CurseForge",
-        "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
-      },
-      {
-        "text": "JSON-Validator",
-        "url": "https://jsonlint.com"
-      },
-      {
-        "text": "Github",
-        "url": "https://github.com"
-      },
-      {
-        "text": "Imgur",
-        "url": "https://imgur.com"
-      },
-      {
-        "text": "Example JSON",
-        "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
-      }
-    ],
-    "version": 2
-  }
+    }
 }
