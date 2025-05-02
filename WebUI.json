@@ -22,21 +22,23 @@
                     "imageurl": "https://imgur.com/a/aipvrOL"
                 }
             },
-            {
-                "tab2": {
-                    "layout": 3,
-                    "buttontext": "ASA Server",
-                    "title1": "title1",
-                    "text1": "text1",
-                    "title2": "title 2",
-                    "text2": "text2",
-                    "title3": "title3",
-                    "text3": "text3",
-                    "title4": "title4",
-                    "text4": "text4",
-                    "imageurl": ""
-                }
-            }
+{
+  "tab2": {
+    "layout": 2,
+    "buttontext": "Server Info",
+    "title1": "Rates & Progression",
+    "text1": "XP: x5\nHarvesting: x5\nTaming: x5\nMature Speed: x25\nEgg Hatch: x50\nMating Interval: 0.125 (≈ 2.5–6h CD)\nImprint Interval: 0.0625 (≈ 30 Min)\nImprint Amount Multiplier: x2.5 (1–6 Imprints)",
+
+    "title2": "Player Stats",
+    "text2": "- HP: +15 per point\n- Weight: +75 per point\n- Melee: +10 per point\n- Fortitude: +5 per point\n- 50% reduced stamina drain",
+
+    "title3": "Disabled Engrams",
+    "text3": "- Sleeping Bag\n- Flamethrower\n- Flamethrower Ammo\n- Wildcard Cryopod\n- Wildcard Cryofridge",
+
+    "title4": "Dino Stats",
+    "text4": "- Weight gain: x7.5 per point\n- Other stats: balanced\n\n*Official weapon & armor caps active*"
+  }
+}
         ],
         "links": [
             {
