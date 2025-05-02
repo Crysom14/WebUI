@@ -1,71 +1,59 @@
 {
-    "WBUI2": {
-        "settings": {
-            "OpenButton": 1,
-            "HideIcon": true,
-            "HideIconAfter": 60,
-            "IconURL": "",
-            "DisableIconText": false,
-            "IconPosition": 0,
-            "IconTextColor": 0,
-            "OpenOnStart": false,
-            "OpenOnStartOnlyNewPlayers": true,
-            "UpdateInterval": 12
-        },
-        "tabs": [
-            {
-                "tab1": {
-                    "layout": 1,
-                    "buttontext": "Welcome",
-                    "title1": "Welcome ",
-                    "text1": "We are a friendly community for all players but u need to be mature and keep in mind the we treat each other with respect. \n We are a growing community and we like to discuss games and gaming. Feel free to join our discord channel!",
-                    "imageurl": "https://i.imgur.com/8xqGfIe.png"
-                }
-            },
-{
-  "tab2": {
-    "layout": 2,
-    "buttontext": "Server Info",
-    "title1": "Rates & Progression",
-    "text1": "XP: x5\nHarvesting: x5\nTaming: x5\nMature Speed: x25\nEgg Hatch: x50\nMating Interval: 0.125 (≈ 2.5–6h CD)\nImprint Interval: 0.0625 (≈ 30 Min)\nImprint Amount Multiplier: x2.5 (1–6 Imprints)",
-
-    "title2": "Player Stats",
-    "text2": "- HP: +15 per point\n- Weight: +75 per point\n- Melee: +10 per point\n- Fortitude: +5 per point\n- 50% reduced stamina drain",
-
-    "title3": "Disabled Engrams",
-    "text3": "- Sleeping Bag\n- Flamethrower\n- Flamethrower Ammo\n- Wildcard Cryopod\n- Wildcard Cryofridge",
-
-    "title4": "Dino Stats",
-    "text4": "- Weight gain: x7.5 per point\n- Other stats: balanced\n\n*Official weapon & armor caps active*"
-  }
-},
- {
-  "tab3": {
-    "layout": 1,
-    "buttontext": "Coming Soon",
-    "title1": "",
-    "text1": "",
-    "imageurl": ""
-  }
-},
-{
-  "tab4": {
-    "layout": 5,
-    "buttontext": "Gallery",
-    "imageurl": "https://i.imgur.com/QaZYtZM.png",
-    "imageurl2": "https://i.imgur.com/1lNGk29.png"
-  }
-}
-
-
-        ],
-        "links": [
-            {
-                "link1": {
-                    "text": "Discord",
-                    "url": "https://discord.gg/2fb6mBfT3j"
-                }
-            }
+  "WBUI2": {
+    "version": 2,
+    "settings": {
+      "openbutton": 1,
+      "hideicon": true,
+      "hideiconafter": 10,
+      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 24
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "Welcome",
+        "imageurl": "https://i.imgur.com/8xqGfIe.png",
+        "content": [
+          {
+            "title": "<TextStyle.Orange>Welcome Survivor!</>",
+            "text": "Welcome to the <TextStyle.LightBlue>[DE/EN] Khali PvP Cluster – ASA!</>\n\nFast-paced PvP, fair rules, active admins – and chaos with style.\n\n<TextStyle.Yellow>📈 Server Rates:</>\n- XP: x5 | Harvest: x5 | Taming: x5\n- Maturation: x25 | Hatch: x50\n- Mating Interval: 0.125 | Imprint Interval: 0.0625 | Imprint Multiplier: x2.5\n\n<TextStyle.Red>⚔️ Player Stats:</>\n- HP: +15 | Melee: +10 | Weight: +75 | Fortitude: +5\n- -50% stamina drain\n\n<TextStyle.Violet>🦖 Dino Stats:</>\n- Weight per point: x7.5\n\nJoin our <RichColor Color=\"0,0.8,1,1\">Discord</> for events, kits & help:\n<RichColor Color=\"0,0.6,1,1\">https://discord.gg/2fb6mBfT3j</>"
+          }
         ]
-    }
+      },
+      {
+        "layout": 2,
+        "buttontext": "Server Rules",
+        "imageurl": "https://i.imgur.com/8xqGfIe.png",
+        "content": [
+          {
+            "title": "<TextStyle.Yellow>⚒️ Base / Building Rules</>",
+            "text": "- No building in mesh or exploit spots\n- No unreachable locations (e.g. chair/grappling hook only)\n- Spam allowed, but not excessive\n- No flying structures or floating turrets\n- Max 1 main base per map + small outposts\n- One cave per tribe across the entire cluster\n- No building on obelisks (except boss turrets)\n- ❌ Blocked: Swamp Cave (Island)"
+          },
+          {
+            "title": "<TextStyle.Red>☠️ PvP / Raid Rules</>",
+            "text": "- No mesh raiding\n- Max. 1 hour caging\n- No tunnel builds/raids\n- Platform dinos must have one fully open side\n- No popcorning, despawning, or loot transfers during raids\n- Counterraids allowed – must be completed"
+          },
+          {
+            "title": "<TextStyle.Violet>🫂 Tribe & Character Rules</>",
+            "text": "- Consistent tribe name cluster-wide\n- No insiding – zero tolerance\n- No racist, sexist, or offensive names (you'll be renamed)\n- Clear player names only (no '123', 'Human', etc.)\n- Tribes are accountable for all members"
+          },
+          {
+            "title": "<TextStyle.Blue>🫡 Admin Rules</>",
+            "text": "- No attacking or blocking admin structures (Tribe 'Admin')\n- Admins are human – mistakes happen\n- Report abuse with screenshots or video"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/2fb6mBfT3j"
+      }
+    ]
+  }
 }
