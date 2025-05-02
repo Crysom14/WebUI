@@ -75,11 +75,18 @@
   ]
 },
       {
-  "layout": 5,
-  "buttontext": "Gallery",
-  "imageurl": "https://i.imgur.com/QaZYtZM.png",
-  "imageurl2": "https://i.imgur.com/0PoB88q.png"
-},
+"layout": 2,
+"content": [
+  {
+    "title": "Left Image",
+    "text": "[img]https://i.imgur.com/Bild1.png[/img]"
+  },
+  {
+    "title": "Right Image",
+    "text": "[img]https://i.imgur.com/Bild2.png[/img]"
+  }
+]
+      }
 
     ],
     "links": [
