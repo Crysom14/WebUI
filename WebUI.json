@@ -64,17 +64,6 @@
                 ]
             },
             {
-                "layout": 1,
-                "buttontext": "ArkShop",
-                "imageurl": "https://i.imgur.com/ktYj4JI.png",
-                "content": [
-                    {
-                        "title": " ",
-                        "text": " "
-                    }
-                ]
-            },
-            {
                 "layout": 5,
                 "buttontext": "Gallery 1",
                 "imageurl": "https://i.imgur.com/Bild1.png"
