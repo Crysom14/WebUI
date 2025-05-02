@@ -50,7 +50,7 @@
 },
       {
   "layout": 2,
-  "buttontext": "Zones & Time Rates",
+  "buttontext": "Advanced rates",
   "imageurl": "https://i.imgur.com/8xqGfIe.png",
   "content": [
     {
@@ -62,7 +62,12 @@
       "text": "comming soon"
     }
   ]
-}
+},
+      {
+  "layout": 5,
+  "buttontext": "ArkShop",
+  "imageurl": "https://i.imgur.com/ktYj4JI.png"
+},
     ],
     "links": [
       {
