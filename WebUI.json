@@ -74,6 +74,13 @@
     }
   ]
 },
+      {
+  "layout": 5,
+  "buttontext": "Gallery",
+  "imageurl": "https://i.imgur.com/QaZYtZM.png",
+  "imageurl2": "https://i.imgur.com/0PoB88q.png"
+},
+
     ],
     "links": [
       {
