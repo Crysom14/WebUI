@@ -25,29 +25,29 @@
           }
         ]
       },
-      {
-        "layout": 4,
-        "buttontext": "Server Rules",
-        "imageurl": "https://i.imgur.com/8xqGfIe.png",
-        "content": [
-          {
-            "title": "Base / Building Rules",
-            "text": "- No building in mesh or exploit spots\n- No unreachable locations (e.g. chair/grappling hook only)\n- Spam allowed, but not excessive\n- No flying structures or floating turrets\n- Max 1 main base per map + small outposts\n- One cave per tribe across the entire cluster\n- No building on obelisks (except boss turrets)\n- Blocked: Swamp Cave (Island)"
-          },
-          {
-            "title": "PvP / Raid Rules",
-            "text": "- No mesh raiding\n- Max. 1 hour caging\n- No tunnel builds/raids\n- Platform dinos must have one fully open side\n- No popcorning, despawning, or loot transfers during raids\n- Counterraids allowed – must be completed"
-          },
-          {
-            "title": "Tribe & Character Rules",
-            "text": "- Use same tribe name cluster-wide\n- No insiding\n- No offensive names – you will be renamed\n- No '123', 'Human' etc.\n- Tribes are accountable for all members"
-          },
-          {
-            "title": "Admin Rules",
-            "text": "- No attacking or blocking admin structures\n- Admins are human – mistakes happen\n- Report abuse with screenshots or video"
-          }
-        ]
-      }
+{
+  "layout": 4,
+  "buttontext": "Server Rules",
+  "imageurl": "https://i.imgur.com/8xqGfIe.png",
+  "content": [
+    {
+      "title": "Base / Building Rules",
+      "text": "- No building in mesh or exploit spots\n- No unreachable locations (e.g. chair/grappling hook only)\n- Spam allowed, but not excessive\n- No flying structures or floating turrets\n- Max 1 main base per map + small outposts\n- One cave per tribe across the entire cluster\n- No building on obelisks (except boss turrets)\n- Blocked: Swamp Cave (Island)"
+    },
+    {
+      "title": "PvP / Raid Rules",
+      "text": "- No mesh raiding\n- Max. 1 hour caging\n- No tunnel builds/raids\n- Platform dinos must have one fully open side\n- No popcorning, despawning, or loot transfers during raids\n- Counterraids allowed – must be completed"
+    },
+    {
+      "title": "Tribe & Character Rules",
+      "text": "- Use same tribe name cluster-wide\n- No insiding allowed\n- No offensive names – players will be renamed\n- No '123', 'Human', etc.\n- Tribes are responsible for all members"
+    },
+    {
+      "title": "Admin Rules",
+      "text": "- Do not attack or block admin structures\n- Admins are human – mistakes happen\n- Report admin abuse with screenshots or video evidence"
+    }
+  ]
+}
     ],
     "links": [
       {
