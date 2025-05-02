@@ -19,7 +19,7 @@
                     "buttontext": "Welcome",
                     "title1": "Welcome ",
                     "text1": "We are a friendly community for all players but u need to be mature and keep in mind the we treat each other with respect. \n We are a growing community and we like to discuss games and gaming. Feel free to join our discord channel!",
-                    "imageurl": "https://imgur.com/a/aipvrOL"
+                    "imageurl": "https://i.imgur.com/8xqGfIe.png"
                 }
             },
 {
@@ -38,7 +38,26 @@
     "title4": "Dino Stats",
     "text4": "- Weight gain: x7.5 per point\n- Other stats: balanced\n\n*Official weapon & armor caps active*"
   }
+},
+ {
+  "tab3": {
+    "layout": 1,
+    "buttontext": "Coming Soon",
+    "title1": "",
+    "text1": "",
+    "imageurl": ""
+  }
+},
+{
+  "tab4": {
+    "layout": 5,
+    "buttontext": "Gallery",
+    "imageurl": "https://i.imgur.com/QaZYtZM.png",
+    "imageurl2": "https://i.imgur.com/1lNGk29.png"
+  }
 }
+
+
         ],
         "links": [
             {
