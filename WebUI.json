@@ -79,11 +79,11 @@
 "content": [
   {
     "title": "Left Image",
-    "text": "[img]https://i.imgur.com/Bild1.png[/img]"
+    "imageurl": "[img]https://i.imgur.com/Bild1.png[/img]"
   },
   {
     "title": "Right Image",
-    "text": "[img]https://i.imgur.com/Bild2.png[/img]"
+    "imageurl": "[img]https://i.imgur.com/Bild2.png[/img]"
   }
 ]
       }
