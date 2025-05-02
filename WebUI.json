@@ -74,20 +74,16 @@
     }
   ]
 },
-      {
-"layout": 2,
-"content": [
-  {
-    "title": "Left Image",
-    "imageurl": "[img]https://i.imgur.com/Bild1.png[/img]"
-  },
-  {
-    "title": "Right Image",
-    "imageurl": "[img]https://i.imgur.com/Bild2.png[/img]"
-  }
-]
-      }
-
+{
+  "layout": 5,
+  "buttontext": "Gallery 1",
+  "imageurl": "https://i.imgur.com/Bild1.png"
+},
+{
+  "layout": 5,
+  "buttontext": "Gallery 2",
+  "imageurl": "https://i.imgur.com/Bild2.png"
+},
     ],
     "links": [
       {
