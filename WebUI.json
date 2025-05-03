@@ -64,14 +64,26 @@
                 ]
             },
             {
-                "layout": 5,
+                "layout": 1,
                 "buttontext": "ArkShop Page 1",
-                "imageurl": "https://i.imgur.com/8xqGfIe.png"
+                "imageurl": "https://i.imgur.com/8xqGfIe.png",
+                "content": [
+                    {
+                        "title": " ",
+                        "text": " "
+                    }
+                ]
             },
             {
-                "layout": 5,
-                "buttontext": "ArkShop Page 2",
-                "imageurl": "https://i.imgur.com/8xqGfIe.png"
+                "layout": 1,
+                "buttontext": "ArkShop Page 1",
+                "imageurl": "https://i.imgur.com/8xqGfIe.png",
+                "content": [
+                    {
+                        "title": " ",
+                        "text": " "
+                    }
+                ]
             }
         ],
         "links": [
