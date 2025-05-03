@@ -24,8 +24,8 @@
                         "text": " \n \n Server Rates: \n \n - XP: x5\n- Harvest: x5\n- Taming: x5\n- Maturation: x25\n- Hatch: x50\n- Mating Interval: 0.125\n- Imprint Interval: 0.0625\n- Imprint Multiplier: x2.5\n\nPlayer Stats:\n \n- HP: +15\n- Melee: +10\n- Weight: +75\n- Fortitude: +5\n- 50% reduced stamina drain\n\nDino Stats:\n \n- Weight per point: x7.5"
                     },
                     {
-                        "title": "Solo / Duo Tribe Rates",
-                        "text": "- Solo: DinoCountMultiplier: x0.85\n- Solo: Resource Respawn Rate: x1.2\n- Duo: DinoDamageMult: x0.95\n- Duo: StructureResistance: x1.1\n\n(More coming soon)"
+                        "title": " ",
+                        "text": " \n \n Solo tribe rates: \n \n - XP: ?\n- Harvest: ?\n- Taming: ?\n- \n\n Duo Tribe Rates:\n \n - XP: ?\n- Harvest: ?\n- Taming: ?\n- \n\n\n\n\n\n Join our discord: \n - https://discord.gg/2fb6mBfT3j "
                     }
                 ]
             },
