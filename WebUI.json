@@ -55,7 +55,7 @@
             {
                 "layout": 1,
                 "buttontext": "ArkShop Overview",
-                "imageurl": "https://i.imgur.com/0PoB88q.png",
+                "imageurl": "https://i.imgur.com/ktYj4JI.png",
                 "content": [
                     {
                         "title": "[DE/EN] Khali PvP - Ingame Shop",
@@ -66,12 +66,12 @@
             {
                 "layout": 5,
                 "buttontext": "ArkShop Page 1",
-                "imageurl": "https://i.imgur.com/BILD1_LINK.png"
+                "imageurl": "https://i.imgur.com/8xqGfIe.png"
             },
             {
                 "layout": 5,
                 "buttontext": "ArkShop Page 2",
-                "imageurl": "https://i.imgur.com/BILD2_LINK.png"
+                "imageurl": "https://i.imgur.com/8xqGfIe.png"
             }
         ],
         "links": [
