@@ -1,85 +1,80 @@
 {
-    "WBUI2": {
-        "version": 2,
-        "settings": {
-            "openbutton": 1,
-            "hideicon": true,
-            "hideiconafter": 10,
-            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
-            "disableicontext": false,
-            "iconposition": 0,
-            "icontextcolor": 0,
-            "openonstart": true,
-            "openonstartonlynewplayers": true,
-            "updateinterval": 24
-        },
-        "tabs": [
-            {
-                "layout": 1,
-                "buttontext": "Welcome",
-                "imageurl": "https://i.imgur.com/8xqGfIe.png",
-                "content": [
-                    {
-                        "title": "Welcome Survivor!",
-                        "text": "\u200e\n\nWelcomenWelcome to the [DE/EN] Khali PvP Cluster – ASA!\n\nFast-paced PvP, fair rules, active admins.\n\nServer Rates:\n- XP: x5 | Harvest: x5 | Taming: x5\n- Maturation: x25 | Hatch: x50\n- Mating Interval: 0.125\n- Imprint Interval: 0.0625\n- Imprint Multiplier: x2.5\n\nPlayer Stats:\n- HP: +15 | Melee: +10 | Weight: +75 | Fortitude: +5\n- 50% reduced stamina drain\n\nDino Stats:\n- Weight per point: x7.5\n\nJoin our Discord for events, kits & help:\nhttps://discord.gg/2fb6mBfT3j"
-                    }
-                ]
-            },
-            {
-                "layout": 4,
-                "buttontext": "Server Rules",
-                "imageurl": "https://i.imgur.com/8xqGfIe.png",
-                "content": [
-                    {
-                        "title": "Base / Building Rules",
-                        "text": " \n \n- No building in mesh or exploit spots\n- No unreachable locations (e.g. chair/grappling hook only)\n- Spam allowed, but not excessive\n- No flying structures or floating turrets\n- Max 1 main base per map + small outposts\n- One cave per tribe across the entire cluster\n- No building on obelisks (except boss turrets)\n- Blocked: Swamp Cave (Island)"
-                    },
-                    {
-                        "title": "PvP / Raid Rules",
-                        "text": " \n \n- No mesh raiding\n- Max. 1 hour caging\n- No tunnel builds/raids\n- Platform dinos must have one fully open side\n- No popcorning, despawning, or loot transfers during raids\n- Counterraids allowed – must be completed"
-                    },
-                    {
-                        "title": "Tribe & Character Rules",
-                        "text": "\n- Use same tribe name cluster-wide\n- No insiding allowed\n- No offensive names – players will be renamed\n- No '123', 'Human', etc.\n- Tribes are responsible for all members"
-                    },
-                    {
-                        "title": "Admin Rules",
-                        "text": "\n- Do not attack or block admin structures\n- Admins are human – mistakes happen\n- Report admin abuse with screenshots or video evidence"
-                    }
-                ]
-            },
-            {
-                "layout": 2,
-                "buttontext": "Advanced rates",
-                "imageurl": "https://i.imgur.com/8xqGfIe.png",
-                "content": [
-                    {
-                        "title": "Solo - Tribe Raten",
-                        "text": "comming soon"
-                    },
-                    {
-                        "title": "Duo - Tribe - raten",
-                        "text": "comming soon"
-                    }
-                ]
-            },
-            {
-                "layout": 1,
-                "buttontext": "ArkShop",
-                "imageurl": "https://i.imgur.com/0PoB88q.png",
-                "content": [
-                    {
-                        "title": " ",
-                        "text": " "
-                    }
-                ]
-            }
-        ],
-        "links": [
-            {
-                "text": "Discord",
-                "url": "https://discord.gg/2fb6mBfT3j"
-            }
+  "WBUI2": {
+    "version": 2,
+    "settings": {
+      "openbutton": 1,
+      "hideicon": true,
+      "hideiconafter": 10,
+      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 24
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "Welcome & Rates",
+        "imageurl": "https://i.imgur.com/8xqGfIe.png",
+        "content": [
+          {
+            "title": "Welcome Survivor!",
+            "text": "\u200b\n\nWelcome to the [DE/EN] Khali PvP Cluster – ASA!\n\nFast-paced PvP, fair rules, active admins.\n\n📊 **Server Rates:**\n- XP: x5 | Harvest: x5 | Taming: x5\n- Maturation: x25 | Hatch: x50\n- Mating Interval: 0.125\n- Imprint Interval: 0.0625\n- Imprint Multiplier: x2.5\n\n💪 **Player Stats:**\n- HP: +15 | Melee: +10 | Weight: +75 | Fortitude: +5\n- 50% reduced stamina drain\n\n🦖 **Dino Stats:**\n- Weight per point: x7.5\n\n🏹 **Tribe Modifiers (Rate Control Ascended):**\n- Solo: Bonus XP/Tame/Harvest x1.2\n- Duo: Bonus XP/Tame/Harvest x1.1\n\n🔗 Join our Discord:\nhttps://discord.gg/2fb6mBfT3j"
+          }
         ]
-    }
+      },
+      {
+        "layout": 4,
+        "buttontext": "Server Rules",
+        "imageurl": "https://i.imgur.com/8xqGfIe.png",
+        "content": [
+          {
+            "title": "Base / Building Rules",
+            "text": "\n- No building in mesh or exploit spots\n- No unreachable locations (e.g. chair/grappling hook only)\n- Spam allowed, but not excessive\n- No flying structures or floating turrets\n- Max 1 main base per map + small outposts\n- One cave per tribe across the entire cluster\n- No building on obelisks (except boss turrets)\n- Blocked: Swamp Cave (Island)"
+          },
+          {
+            "title": "PvP / Raid Rules",
+            "text": "\n- No mesh raiding\n- Max. 1 hour caging\n- No tunnel builds/raids\n- Platform dinos must have one fully open side\n- No popcorning, despawning, or loot transfers during raids\n- Counterraids allowed – must be completed"
+          },
+          {
+            "title": "Tribe & Character Rules",
+            "text": "\n- Use same tribe name cluster-wide\n- No insiding allowed\n- No offensive names – players will be renamed\n- No '123', 'Human', etc.\n- Tribes are responsible for all members"
+          },
+          {
+            "title": "Admin Rules",
+            "text": "\n- Do not attack or block admin structures\n- Admins are human – mistakes happen\n- Report admin abuse with screenshots or video evidence"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "ArkShop Overview",
+        "imageurl": "https://i.imgur.com/0PoB88q.png",
+        "content": [
+          {
+            "title": "[DE/EN] Khali PvP - Ingame Shop",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "layout": 5,
+        "buttontext": "ArkShop Page 1",
+        "imageurl": "https://i.imgur.com/BILD1_LINK.png"
+      },
+      {
+        "layout": 5,
+        "buttontext": "ArkShop Page 2",
+        "imageurl": "https://i.imgur.com/BILD2_LINK.png"
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/2fb6mBfT3j"
+      }
+    ]
+  }
 }
