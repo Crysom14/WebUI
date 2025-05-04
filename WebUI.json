@@ -7,9 +7,9 @@
 			"hideiconafter": 10,
 			"iconurl": "https://i.imgur.com/OZ6xOjY.png",
 			"disableicontext": false,
-			"iconposition": 0,
+			"iconposition": 3,
 			"icontextcolor": 0,
-			"openonstart": true,
+			"openonstart": false,
 			"openonstartonlynewplayers": true,
 			"updateinterval": 24
 		},
@@ -66,22 +66,22 @@
 			{
 				"layout": 1,
 				"buttontext": "ArkShop Page 1",
-				"imageurl": "https://i.imgur.com/8xqGfIe.png",
+				"imageurl": "https://i.imgur.com/41feuPR.png",
 				"content": [
 					{
-						"title": "kommt bald",
-						"text": "comming soon "
+						"title": " ",
+						"text": " "
 					}
 				]
 			},
 			{
 				"layout": 1,
 				"buttontext": "ArkShop Page 2",
-				"imageurl": "https://i.imgur.com/8xqGfIe.png",
+				"imageurl": "https://i.imgur.com/Xm6tYYU.png",
 				"content": [
 					{
-						"title": "kommt bald",
-						"text": "cooming soon"
+						"title": " ",
+						"text": " "
 					}
 				]
 			}
