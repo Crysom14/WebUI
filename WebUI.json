@@ -4,10 +4,10 @@
 		"settings": {
 			"openbutton": 1,
 			"hideicon": true,
-			"hideiconafter": 10,
+			"hideiconafter": ,5
 			"iconurl": "https://i.imgur.com/OZ6xOjY.png",
 			"disableicontext": false,
-			"iconposition": 3,
+			"iconposition": 2,
 			"icontextcolor": 0,
 			"openonstart": false,
 			"openonstartonlynewplayers": true,
